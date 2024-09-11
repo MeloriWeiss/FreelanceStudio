@@ -1,0 +1,16 @@
+.orders {
+    .orders-tools {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 5px;
+        max-width: 70px;
+        margin: 0 auto;
+    }
+}
+
+.order-form {
+    .bootstrap-datetimepicker-widget .picker-switch a {
+        color: white;
+    }
+}
